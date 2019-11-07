@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="BeeyeLinesCounter.c1f82083-91b8-4cd7-90c4-9c7ab95549e4" Version="0.0.3" Language="en-US" Publisher="Yury Doroshenko" />
+        <Identity Id="BeeyeLinesCounter.c1f82083-91b8-4cd7-90c4-9c7ab95549e4" Version="0.0.4" Language="en-US" Publisher="Yury Doroshenko" />
         <DisplayName>A quick lines count</DisplayName>
         <Description xml:space="preserve">A simple lines counter for C# files.
 Based on SDK example : https://github.com/microsoft/VSSDK-Extensibility-Samples/tree/master/AsyncQuickInfo</Description>
