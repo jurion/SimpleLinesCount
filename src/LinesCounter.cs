@@ -60,6 +60,10 @@ namespace AsyncQuickInfo
                 {
                     continue;
                 }
+                if (l.StartsWith("#"))
+                {
+                    continue;
+                }
                 codeLines++;
             }
             return codeLines;
